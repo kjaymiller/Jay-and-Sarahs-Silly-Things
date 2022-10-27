@@ -1,4 +1,5 @@
 # Jay and Sarah's Silly Projects
+![We stream every wednesday](https://img.shields.io/endpoint?url=https://jmsk-badgeio-days-until.azurewebsites.net/api/badgedaysuntil)
 ### Because we need to have fun at work!
 
 This is a site that serves as a list of all the silly projects that Jay and Sarah work on every wednesday!
