@@ -3,7 +3,9 @@
 
 This is a site that serves as a list of all the silly projects that Jay and Sarah work on every wednesday!
 
-### What ideas would you like to see us work on! Check out the discussions tab and either add your new ideas or upvote an existing one!
+### What ideas would you like to see us work on! 
+
+Check out the discussions tab and either add your new ideas or upvote an existing one!
 
 ## License
 
